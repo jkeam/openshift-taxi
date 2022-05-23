@@ -1,4 +1,4 @@
-# The Really Great Taxi App
+# The Great Taxi App
 
 ## About
 
